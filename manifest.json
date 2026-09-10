@@ -1,0 +1,12 @@
+{
+  "driverId": "drawdy.latex",
+  "driverName": "LaTeX Equations",
+  "driverVersion": "0.1.0",
+  "description": "Write LaTeX, watch it typeset live, and drop the equation onto the canvas as crisp vector art.",
+  "main": "main.js",
+  "icon": "assets/latex.svg",
+  "permissions": [
+    "dom",
+    "scene"
+  ]
+}

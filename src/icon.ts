@@ -1,0 +1,2 @@
+export const LATEX_SVG =
+  '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18"><defs><linearGradient id="drawdy-latex-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3B82F6"/><stop offset="1" stop-color="#1D4ED8"/></linearGradient></defs><rect x="1.5" y="1.5" width="21" height="21" rx="5.5" fill="url(#drawdy-latex-bg)"/><path fill="#fff" d="M5.9 5.7H18.1V9.2H16.5V7.7H9.6L14.2 12L9.6 16.3H16.5V14.8H18.1V18.3H5.9V16.9L10.9 12L5.9 7.1Z"/></svg>';
