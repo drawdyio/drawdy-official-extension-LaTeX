@@ -1,4 +1,4 @@
-import MATHJAX_SRC from "virtual:mathjax";
+import MATHJAX_SRC from "./mathjax-source";
 import {
   CARET,
   DEFAULT_FONT_SIZE,
